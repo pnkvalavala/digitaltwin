@@ -1,6 +1,6 @@
 # Digital Twin Generation with Voice Cloning and Realistic Video
 
-This project was developed as part of the Techolution Hackathon. This repository contains the code and instructions for creating a near real-time digital twin using advanced voice cloning and realistic video generation techniques. Our solution aims to tackle the challenge of generating a digital clone of a person, combining their voice, expressions, and speech in a lifelike manner.
+This project was developed as part of the Techolution AI Done Right Hackathon. This repository contains the code and instructions for creating a near real-time digital twin using advanced voice cloning and realistic video generation techniques. Our solution aims to tackle the challenge of generating a digital clone of a person, combining their voice, expressions, and speech in a lifelike manner.
 
 ## Problem Statement
 
