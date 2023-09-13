@@ -44,6 +44,10 @@ To run the complete system, follow these steps:
    - Upload an image of the person whose voice is to be cloned.
    - The system will generate a video with lip-sync using the audio and image provided.
 
+
+https://github.com/pnkvalavala/digitaltwin/assets/108526358/f6ea634a-65ee-4d2e-92fd-f52c96613959
+
+
 ## Additional Notes
 
 - If you have access to powerful GPUs, you can combine both `TorTTS_API.ipynb` and `Vid_API.ipynb` to run in a single Colab instance for faster processing or in your local machine.
