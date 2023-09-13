@@ -39,9 +39,9 @@ To run the complete system, follow these steps:
 4. Run the Streamlit application using the command: `streamlit run app.py`.
 
 5. In the Streamlit application, users can perform the following steps:
-   - Upload a sample audio file for voice cloning.
+   - Upload a sample audio file (.wav) of 10 to 15 seconds for voice cloning.
    - Specify a text prompt for generating speech.
-   - Upload an image of the person whose voice is to be cloned.
+   - Upload an image (.png) of the person whose voice is to be cloned.
    - The system will generate a video with lip-sync using the audio and image provided.
 
 
